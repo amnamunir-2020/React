@@ -1,0 +1,16 @@
+Shift RIGHT CLICK MENU OPEN A POER SHELL
+
+
+if no npm soo npx use
+
+
+React is a libraray of JAVASCRIPT 
+COMPONENT BASED 
+REUSABILITY 
+
+npm install --global create-react-app
+create-react-app nameof project(firstprojectreact)
+
+npm start
+
+
