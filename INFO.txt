@@ -14,3 +14,31 @@ create-react-app nameof project(firstprojectreact)
 npm start
 
 
+reactjs webbased 
+reactnative mobile 
+
+SPA--SINGLE PAGE APPLICATION  
+in reat(router)just onepage   navigation
+
+MPA--MULTIPLE PAGE APPLICATION
+
+
+------------------Install
+if system so command
+npm i -g  create-react-app
+
+create-react-app  myapp
+
+version check npm(node package manager)
+npm -v
+version check node
+node -v
+
+
+no need installation just npx
+npx create-react-app myapp
+
+
+
+
+
