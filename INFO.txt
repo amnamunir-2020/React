@@ -38,7 +38,12 @@ node -v
 no need installation just npx
 npx create-react-app myapp
 
+Jobi Install wo node modules mai jaatihai
+dependies important hai all library instaall jo hao
 
+jojo libraray install hai jo chia hamae command
+npm install
 
-
+Readme.md ---projectdetail introduction 
+PWA --Progressive Web APP  (app offline run)
 
