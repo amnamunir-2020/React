@@ -22,3 +22,29 @@ function App() {
 }
 
 export default App;
+
+
+//CLASS COMPONENT----------------------
+// class App extends React.Component{
+//   render(){
+//     return(
+
+//       <div>
+//         <h1>Asslamoalaikum Warhmatullahi Wabarakatuhu!</h1>
+//       </div>
+//     )
+//   }
+// }
+//export default App
+
+//FUNCTION COMPONENT------------------------
+function App(){
+    return(
+
+      <div>
+        <h1>Asslamoalaikum--!</h1>
+      </div>
+    )
+}
+
+export default App
