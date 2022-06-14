@@ -1,0 +1,119 @@
+Node Js NPM
+
+PS C:\Users\CS-51> npm --version
+8.5.5
+PS C:\Users\CS-51> node --version
+v16.15.0
+PS C:\Users\CS-51> npx --version
+8.5.5
+PS C:\Users\CS-51>
+
+Shift Right CLick Terminal Window Powershell
+
+
+node js:js ko browser sai b ahir yaani apnay computer sources kai sath use kerna Node Js
+
+npm:always run
+
+npx:package manager package install 
+npx one time run
+
+command new React app Create--
+npx create-react-app todo-list
+
+this result:
+Success! Created todo-list at C:\Users\CS-51\Documents\todo-list
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd todo-list
+  npm start
+
+Happy hacking!
+
+Run Project command
+npm start 
+
+Phone
+ Local:            http://localhost:3000        
+  On Your Network:  http://192.168.100.110:3000  
+
+React SPA Single Page Application:
+
+className :in html code this is JSX javascript syntax extension used in react components for dynamic js
+
+
+React Dev Tools Chrome Extension
+Emmet:Automatics tags
+curly braces in js language 
+
+Two Types Components:
+ 1-Class based component 
+1-Function based component
+
+
+IN APP.JS Code jsx code- mixed js and html . not html code
+must wrap in opening & closing tags <> </> return
+
+if use bootsrap class replace with className 
+and open tag with / slash
+
+if optimized highly application so use React Bootstrap
+ In this website React Bootstrap command use 
+
+Extension ES7 Must USED FOR REACT Components
+rfc-- react function component
+
+named & default export 
+mostly used rafc components react arrow function components
+
+Props js object hai :Data pass from parents components to child components
+
+
+react main js working  
+react Router Light weight   
+
+if you want component used & other can access so export default ok
+
+Switch use for link default 
+
+
+
+
+
+
+
+
+
+
+
+VS Code EXTENSION:
+ES7 React/Redux/GraphQL/React Native Snippets
+Thunder Client same as  Post Man for API test
+Bracket Pair Colorizer colorful brackets 
+Auto Rename Tag Tags Easy
+Live Server Go Alive
+
+
+
+
+
+
+
+
+Windows Message
+We noticed you regularly use your device between ‏‎11:00 AM and ‏‎7:00 PM. Would you like Windows to automatically update your active hours to match your activity? We won't restart for updates during this time.
